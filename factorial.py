@@ -1,6 +1,6 @@
 # Factorial program
 
-num = int(input('Enter integer:'))
+num = int()
 
 if type(num) != int:
 	print('please enter positive whole number')
